@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   const [data, setData] = React.useState([]);
   useEffect(() => {
-    fetch("http://localhost:3001/users")
+    fetch("http://localhost:3001/employee")
       .then((res) => res.json())
       .then((data) => setData(data))
       .catch((err) => console.log(err));
