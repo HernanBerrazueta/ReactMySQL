@@ -1,0 +1,26 @@
+table,
+th,
+td {
+  border: 1px solid #2b2b2b;
+  font-size: 2rem;
+  background-color: rgb(238, 239, 255);
+  text-align: center;
+}
+
+th,
+td {
+  padding: 1rem 3rem;
+}
+
+th {
+  background-color: rgb(107, 94, 255);
+  color: azure;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 0;
+}
