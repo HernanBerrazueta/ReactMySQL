@@ -4,7 +4,8 @@ How to Connect React JS With MySQL Database using Node.JS/Express.js. How to imp
 
 ---
 
-After downloading the project you need to on the terminal:
+After downloading the project you need to do the next steps on the terminal.
+
 On the backend:
 
 1. npm install
